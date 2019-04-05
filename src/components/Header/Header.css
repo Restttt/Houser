@@ -1,0 +1,26 @@
+.header-parent-box {
+    height: 7vh;
+    width: 100vw;
+    background: #519872;
+}
+
+.header-box-info {
+    height: 7vh;
+    width: 50%;
+    margin: 0 auto;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    color: white;
+}
+
+.header-box-info h1{ 
+    padding: 1em;
+}
+
+.header-box-info:link {
+    color: white;
+    text-decoration: none;
+}

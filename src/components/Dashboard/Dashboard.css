@@ -1,0 +1,26 @@
+.dashboard-title {
+    width: 100%;
+    margin: 0 auto;
+    padding-bottom: 2vh;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    border-bottom: 1px solid #3B5249;
+}
+
+.dashboard-title h1 {
+    font-size: 2.9em;
+    font-weight: 400;
+    color: #519872;
+}
+
+.home-listings-title {
+    margin-left: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+
+

@@ -1,0 +1,32 @@
+li {
+    list-style-type: none;
+}
+
+.house-parent-box {
+    width: 97%;
+    margin: 1em auto;
+    padding: .7em;
+    background: #DEDEDE;
+
+    display: flex;
+}
+
+.house-box {
+    width: 90%;
+    display: flex;
+}
+
+.house-parent-box ul {
+    display: flex;
+    flex-direction: column;
+    line-height: 2em;
+    font-weight: 600;
+}
+
+.delete-house-box {
+    position: relative;
+    left: 60px;
+    bottom: 15px;
+
+    font-size: 1.3em;
+}
